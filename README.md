@@ -1,10 +1,3 @@
-POTREBNO
-
-NodeJS
-axios
-fs
-discord.js-pagination
-discordjs v12
 
 SETUP
 
